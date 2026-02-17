@@ -1,4 +1,4 @@
-# 🔐 CriptografiaGpo2
+#  CriptografiaGpo2
 
 Este repositorio contiene la publicación de los trabajos realizados durante el semestre en la materia de **Criptografía (2930)**.
 
