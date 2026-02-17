@@ -6,15 +6,15 @@
 # - Urbano Meza Joseph Gael
 # Fecha: 17 de febrero de 2026
 
-#Definimos primero todo el alfabeto 
+#Definimos primero todo el abecedario 
 abc = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 
        'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
 # Pedimos los datos al usuario y los convertimos a minúsculas para evitar problemas con mayúsculas. 
-texto_original = input("Escribe el mensaje (en minúsculas): ").lower()
-n = int(input("Introduce el número de desplazamiento: "))
+texto_original = input("Escribe el mensaje que quieras (en minúsculas): ").lower()
+n = int(input("Introduce el número de desplazamiento que gustes: "))
 
-# --- AQUI EMPIEZA EL PROCESO DE CIFRADO ---
+
 texto_cifrado = ""
 
 for letra in texto_original:
@@ -25,7 +25,7 @@ for letra in texto_original:
     else:
         texto_cifrado += letra
 
-# --- PROCESO DE DESCIFRADO ---
+
 texto_descifrado = ""
 
 for letra in texto_cifrado:
