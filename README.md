@@ -1,10 +1,18 @@
-# CriptografiaGpo2
-Este repositorio será para la publicación de los trabajos realizados durante el semestre en la materia de criptografía (2930).
+# 🔐 CriptografiaGpo2
 
-El equipo esta conformado por 
+Este repositorio contiene la publicación de los trabajos realizados durante el semestre en la materia de **Criptografía (2930)**.
 
-Cano Nieto Carlos Arturo
-Cortes Bolaños Angel David
-Martinez Garcia Luis Angel
-Rodriguez Jaramillo Alejandro
-Urbano Meza Joseph Gael
+Aquí se almacenarán prácticas, ejercicios y proyectos desarrollados a lo largo del curso.
+
+---
+
+## 👥 Integrantes del Equipo
+
+- Cano Nieto Carlos Arturo  
+- Cortes Bolaños Angel David  
+- Martinez Garcia Luis Angel  
+- Rodriguez Jaramillo Alejandro  
+- Urbano Meza Joseph Gael  
+
+
+
